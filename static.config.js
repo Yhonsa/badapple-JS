@@ -1,5 +1,4 @@
 import path from 'path'
-import axios from 'axios'
 
 export default {
   basePath: "badapple",
